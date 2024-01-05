@@ -62,7 +62,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [jadenblack/pipy](https://github.com/jadenblack/pipy)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|43<br/>Tools used|12/14/23 <br/>Report generated|
+|44<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -284,9 +284,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (19)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (20)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (19)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (20)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -295,6 +295,7 @@ Full tech stack [here](/techstack.md)
 |[@material-ui/lab](https://www.npmjs.com/@material-ui/lab)|v4.0.0|05/26/21|pajama-coder |MIT|N/A|
 |[@mdx-js/mdx](https://www.npmjs.com/@mdx-js/mdx)|v1.6.22|10/15/21|pajama-coder |MIT|N/A|
 |[@mdx-js/react](https://www.npmjs.com/@mdx-js/react)|v1.6.22|08/23/22|pajama-coder |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v2.4.2|12/15/21|pajama-coder |MIT|N/A|
 |[commander](https://www.npmjs.com/commander)|v8.3.0|12/15/21|pajama-coder |MIT|N/A|
 |[express](https://www.npmjs.com/express)|v4.18.2|12/15/21|pajama-coder |MIT|N/A|
 |[gatsby-source-filesystem](https://www.npmjs.com/gatsby-source-filesystem)|v3.15.0|05/24/23|pajama-coder |MIT|N/A|
